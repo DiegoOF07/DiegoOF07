@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**DiegoOF07/DiegoOF07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Diego!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre mi
+Soy un desarrollador de software con experiencia en tecnologías web y metodologías ágiles.
+
+
+🧠 Estoy aprendiendo Computer Science
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diego-o-flores-portfolio.netlify.app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diego-flores-gt)
+
+## Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoOF07&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOF07&layout=compact&theme=dark#gh-dark-mode-only)
